@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TENGQU1986/Natous-start.git"
+  },
+  "author": "Patrick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TENGQU1986/Natous-start/issues"
+  },
+  "homepage": "https://github.com/TENGQU1986/Natous-start#readme",
+  "devDependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
